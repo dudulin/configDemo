@@ -1,0 +1,66 @@
+1650893189492	geckodriver	INFO	Listening on 127.0.0.1:10735
+1650893192500	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "10736" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Du\\AppData\\Local\\Temp\\rust_mozprofilefrZbjG"
+1650893194103	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Du\\AppData\\Local\\Temp\\rust_mozprofilefrZbjG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:10736/devtools/browser/e7efd777-56e5-4d50-bd9d-1b15dadd25d9
+1650893198957	Marionette	INFO	Listening on port 10770
+Read port: 10770
+1650893199069	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: https://bot.sannysoft.com/, line 161: TypeError: Navigator.sendBeacon: At least 1 argument required, but only 0 passed
+JavaScript error: https://bot.sannysoft.com/, line 209: TypeError: navigator.getUserMedia is not a function
+JavaScript warning: https://bot.sannysoft.com/fpCollect.min.js, line 122: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://bot.sannysoft.com/, line 618: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://bot.sannysoft.com/, line 312: TypeError: navigator.getBattery is not a function
+JavaScript error: https://bot.sannysoft.com/, line 353: ReferenceError: $ is not defined
+JavaScript warning: https://mc.yandex.ru/metrika/tag.js, line 18: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1650893848752	Marionette	INFO	Stopped listening on port 10770
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 16844, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Du\\AppData\\Local\\Temp\\rust_mozprofilebsZ3zv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11213/devtools/browser/bf4dd56f-6e56-41df-a7ca-727ab077c8a2
+1650893283223	Marionette	INFO	Listening on port 11247
+Read port: 11247
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1650893284063	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1650893844834	Marionette	INFO	Stopped listening on port 11247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
+, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Du\\AppData\\Local\\Temp\\rust_mozprofile3bdVMY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:11817/devtools/browser/35529176-bd26-4e64-a0f8-e3684f4a771e
+1650893457584	Marionette	INFO	Listening on port 11841
+Read port: 11841
+1650893458603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript warning: https://g.alicdn.com/??kissy/k/6.2.4/seed-min.js,kg/global-util/1.0.7/index-min.js,secdev/sufei_data/3.8.7/index.js, line 6: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js?v=1, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+1650893841914	Marionette	INFO	Stopped listening on port 11841
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 17928, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+cal\\Temp\\rust_mozprofileUREfF6"
+1650893711761	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Du\\AppData\\Local\\Temp\\rust_mozprofileUREfF6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:12540/devtools/browser/8df7f77f-716a-4585-9403-58bb10588107
+1650893716517	Marionette	INFO	Listening on port 12563
+Read port: 12563
+1650893717146	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1650893838991	Marionette	INFO	Stopped listening on port 12563
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][PGPUParent] Error: RunMessage(msgname=PGPU::Msg_ShutdownVR) Channel closing: too late to send/recv, messages will be lost
+
