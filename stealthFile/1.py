@@ -6,6 +6,7 @@ from selenium.webdriver import Firefox
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.action_chains import ActionChains
 import time
+from datetime import datetime
 
 
 def create_chrome_driver(flag):
@@ -109,4 +110,8 @@ except Exception as e:
     print(e)
 
 
+one = datetime.now()
+two = datetime.datetime.hour(20)
+
+print(one, two)
 # driver.close()
